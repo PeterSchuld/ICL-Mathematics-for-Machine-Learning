@@ -17,3 +17,7 @@ vectors and matrices are and how to work with them.
 
 ❸ The third course, Dimensionality Reduction with Principal Component Analysis, uses the mathematics from the first two courses to compress high-dimensional data. This course is of intermediate difficulty and will require basic Python and numpy knowledge.
 At the end of this specialization you will have gained the prerequisite mathematical knowledge to continue your journey and take more advanced courses in machine learning.
+
+#### Textbooks ####
+(Recommended) Mary L Boas (2006) »Mathematical Methods in the Physical Sciences«, John Wiley and Sons, 3rd Ed
+(Recommended) Marc Peter Deisenroth et al  (2019) »Mathematics for Machine Learning«, 1st Ed
