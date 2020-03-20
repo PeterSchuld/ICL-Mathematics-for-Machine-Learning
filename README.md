@@ -11,12 +11,12 @@ getting you up to speed in the underlying mathematics, building an intuitive und
 Data Science.
 
 ❶ In the first course on Linear Algebra we look at what linear algebra is and how it relates to data. Then we look through what
-vectors and matrices are and how to work with them.
+vectors and matrices are and how to work with them. (David Dye, Professor of Metallurgy)
 
-❷ The second course, Multivariate Calculus, builds on this to look at how to optimize fitting functions to get good fits to data. It starts from introductory calculus and then uses the matrices and vectors from the first course to look at data fitting.
+❷ The second course, Multivariate Calculus, builds on this to look at how to optimize fitting functions to get good fits to data. It starts from introductory calculus and then uses the matrices and vectors from the first course to look at data fitting. (Samuel J. Cooper, Lecturer, Dyson School of Design Engineering)
 
 ❸ The third course, Dimensionality Reduction with Principal Component Analysis, uses the mathematics from the first two courses to compress high-dimensional data. This course is of intermediate difficulty and will require basic Python and numpy knowledge.
-At the end of this specialization you will have gained the prerequisite mathematical knowledge to continue your journey and take more advanced courses in machine learning.
+At the end of this specialization you will have gained the prerequisite mathematical knowledge to continue your journey and take more advanced courses in machine learning.  (Dr.-Ing Marc Deisenroth, Lecturer in Statistical Machine Learning, Department of Computing)
 
 #### Textbooks ####
 (Recommended) Mary L Boas (2006) »Mathematical Methods in the Physical Sciences«, John Wiley and Sons, 3rd Ed
