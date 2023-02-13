@@ -20,4 +20,5 @@ At the end of this specialization you will have gained the prerequisite mathemat
 
 #### Textbooks ####
 (Recommended) Mary L Boas (2006) »Mathematical Methods in the Physical Sciences«, John Wiley and Sons, 3rd Ed
+
 (Recommended) Marc Peter Deisenroth et al  (2020) »Mathematics for Machine Learning«,  Cambridge University Press, 1st Ed, ISBN-13: 978-1108455145
